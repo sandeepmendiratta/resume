@@ -1,0 +1,55 @@
+[{
+  "Title": "Operating Systems",
+  "Specialities": [
+    "Linux",
+    "Windows",
+    "OSX"
+  ]
+},
+{
+  "Title": "Languages",
+  "Specialities": [
+    "Golang",
+    "Java",
+    "Python",
+    "Ruby",
+    "Bash"
+  ]
+},
+{
+  "Title": "Technologies",
+  "Specialities": [
+    "AWS",
+    "GCE",
+    "GKE",
+    "Azure",
+    "Kubernetes",
+    "Helm",
+    "Docker",
+    "Spinnaker",
+    "Chef",
+    "Terraform",
+    "Ansible",
+    "Consul",
+    "git",
+    "Packer",
+    "Jenkins",
+    "Vault",
+    "Splunk",
+    "DataDog",
+    "auditd",
+    "SeLinux",
+    "PKI",
+    "Nmap",
+    "Wireshark",
+    "F5",
+    "tcpdump",
+    "DNS",
+    "DHCP",
+    "Spinnaker",
+    "Drone",
+    "NGINX",
+    "Garfana",
+    "Influx"
+  ]
+}]
