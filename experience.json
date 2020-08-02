@@ -19,23 +19,54 @@
 },
 {
   "Employer": "Target",
-  "Role": "Senior Engineer",
+  "Role": "Lead Engineer – Server technology",
   "Location": "Minneapolis, MN",
-  "TimeFrame": "January 2015 - Current",
+  "TimeFrame": "October 2011 to April 2016",
   "Responsibilities": [
-	"Managed the implementation and onboarding of new client accounts",
-	"Perform initial sanity checks on documentation packages ensuring all activities are captured, accurately reviewed and processed in a timely fashion",
-	"Dealing with customers' requests concerning different changes on their accounts",
-	"Automated communication required to advise customers on changes to their accounts"
+    "Responsible for working with business units and developers to gather requirements to insure successful implementation of infrastructure.",
+  "Mentors junior Infrastructure Engineers and provides Technical Leadership in the realm of IT Engineering.",
+  "Co-led the initiative for selection criteria for the company next generation of server hardware which included chassis, blades, network and storage ($40 million investment to replace older hardware with new platform) ",
+  "Designed, build/architecture, implementation and automation of Dell VRTX (Chassis) platform to replace older hardware",
+  "Platform owner and responsible for of over 5,000 Wintel Servers running at 1,700 locations.",
+  "Re-architected the Stores server build process to use the new server image, as well as download build files from a centralized repository for all platforms, rather than maintain separate build environments for all 7 of the Stores platforms (12,000 servers)",
+  "Developed and executed a Virtualization Strategy for 500 physical servers running legacy Windows 2000 Server software." ,
+  "Created a Windows Server 2008 R2 image and build process that will be utilized over the next three years by the Stores Refresh Virtualization Project, utilizing Microsoft Hyper-V to reduce physical server count at all stores from 12,000 to 3,400 servers.",
+  "Led an initiative to standardize security on all corporate servers to ensure compliance with industry regulations.",
+  "Led the team that successfully converted 1,700 Windows 2003 servers running Microsoft Virtual Server to Windows Server 2012 running Hyper-V in only 3 months.",
+  "Regularly partnered with internal security compliance team to ensure all components of server infrastructure meets the compliance needs for GLBA, HIPAA, PCI, SOX etc",
+  "Experienced in 24/7 on-call for PRODUCTION L3 support"
   ]
 },
 {
   "Employer": "Target",
-  "Role": "Senior Engineer",
+  "Role": "Sr. Engineer – Infrastructure Support",
   "Location": "Minneapolis, MN",
-  "TimeFrame": "January 2015 - Current",
+  "TimeFrame": "October2009 to October 2011",
   "Responsibilities": [
+    "Provided top-level tier support to field engineers, technicians, and product support personnel fulfilling the role as a subject matter expert.",
+    "Implemented new workflow management procedures to better prioritize and track incoming projects and eliminate inefficient methods of intake.",
+    "Identified and transitioned additional support duties to our global partners to allow team members to focus on more engineering opportunities.",
+    "Developed processes and automation that identified and remediated various security vulnerabilities on approximately 9,300 servers throughout the Enterprise.",
+    "Instituted a weekly on-call review process with all Windows platform engineers to reduce unnecessary on-call support activities and to improve work-life balance.",
+    "Improved the departmental documentation repository by creating a new structure and standards for project documentation geared around ease of finding information in emergency situations and on-call support.",
+    "Developed a security update review process to formalize our response to monthly and out of band Microsoft security patches.",
+    "Hands on experience working in Tier 2/3 data center operations with high-availability configurations."
 
+  ]
+},
+{
+  "Employer": "Target",
+  "Role": "System Engineer – System recovery and support ",
+  "Location": "Minneapolis, MN",
+  "TimeFrame": "March 2005 to October 2009",
+  "Responsibilities": [
+    "Responsible for the high availability of systems, servers and related components and the security of the business applications.",
+"Provided Wintel based server support for servers across HQ, Distribution Centers, and Stores Environments.",
+"Stores Platform Owner within Systems Recover Server Infrastructure team.",
+"Managed incoming Infrastructure Work Requests for both Wipro vendor team along with the SRSI team.",
+"Build full automation for Dell BIOS/Firmware updates across the Wintel Stores platform and build proces setting up DRAC remediation. Build automated the and SAN OS upgrade preparation, the development of the internal Technology Ownership Reporting and server file cleanup efforts.",
+"Played a key role in ensuring the successful opening of Target Bangalore office which included installing, coordinating all IT infrastructure for new 2000 team members office.",
+"Successfully led and implemented technical project plan for Target India (Bangalore). Spent 7 weeks in Bangalore for this project. Coordinated and installed/ configured servers, switches, access point, workstations, printers, and phones. Provided training to new hire."
   ]
 }
 ]
