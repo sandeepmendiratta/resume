@@ -31,10 +31,10 @@ Education
 Experience
 ------
 
-Target
-Senior Engineer
-Minneapolis, MN
-January 2015 - Current
+Target, 
+Lead Engineer – Cloud and Compute, 
+Minneapolis, MN, 
+April 2016 to Present
 
  * Lead efforts around offering Containers as a Service, using Kubernetes, in Target Stores and distribution Centers
  * Designed and built highly automated immutable Kubernetes cluster for Stores' edge computing platform Unimatrix – which revolutionized the way Target developers deliver software to our stores.
@@ -48,9 +48,9 @@ January 2015 - Current
  * Developed and implemented software release management strategies for various applications according to agile process.
  * Built and Managed Spinnker 
 
-Target
-Lead Engineer – Server technology
-Minneapolis, MN
+Target, 
+Lead Engineer – Server technology, 
+Minneapolis, MN, 
 October 2011 to April 2016
 
  * Responsible for working with business units and developers to gather requirements to insure successful implementation of infrastructure.
@@ -66,9 +66,9 @@ October 2011 to April 2016
  * Regularly partnered with internal security compliance team to ensure all components of server infrastructure meets the compliance needs for GLBA, HIPAA, PCI, SOX etc
  * Experienced in 24/7 on-call for PRODUCTION L3 support
 
-Target
-Sr. Engineer – Infrastructure Support
-Minneapolis, MN
+Target, 
+Sr. Engineer – Infrastructure Support, 
+Minneapolis, MN, 
 October2009 to October 2011
 
  * Provided top-level tier support to field engineers, technicians, and product support personnel fulfilling the role as a subject matter expert.
@@ -80,9 +80,9 @@ October2009 to October 2011
  * Developed a security update review process to formalize our response to monthly and out of band Microsoft security patches.
  * Hands on experience working in Tier 2/3 data center operations with high-availability configurations.
 
-Target
-System Engineer – System recovery and support 
-Minneapolis, MN
+Target, 
+System Engineer – System recovery and support, 
+Minneapolis, MN, 
 March 2005 to October 2009
 
  * Responsible for the high availability of systems, servers and related components and the security of the business applications.

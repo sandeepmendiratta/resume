@@ -89,20 +89,20 @@ Education
 		os.Exit(1)
 	}
 
-	ref := []*References{}
-	refBytes, err := ioutil.ReadFile("references.json")
-	if err != nil {
-		fmt.Println("Error reading references.json:", err)
-		fmt.Println(string(refBytes))
-		os.Exit(1)
-	}
-
-	err = json.Unmarshal(refBytes, &ref)
-	if err != nil {
-		fmt.Println("Error unmarshalling references:", err)
-		fmt.Println(string(refBytes))
-		os.Exit(1)
-	}
+	// ref := []*References{}
+	// refBytes, err := ioutil.ReadFile("references.json")
+	// if err != nil {
+	// 	fmt.Println("Error reading references.json:", err)
+	// 	fmt.Println(string(refBytes))
+	// 	os.Exit(1)
+	// }
+	//
+	// err = json.Unmarshal(refBytes, &ref)
+	// if err != nil {
+	// 	fmt.Println("Error unmarshalling references:", err)
+	// 	fmt.Println(string(refBytes))
+	// 	os.Exit(1)
+	// }
 
 	// 	refTmpl, err := template.New("references").Parse(`
 	// References
@@ -121,7 +121,7 @@ Education
 	respBytes, err := ioutil.ReadFile("experience.json")
 	if err != nil {
 		fmt.Println("Error reading experience.json:", err)
-		fmt.Println(string(refBytes))
+		// fmt.Println(string(refBytes))
 		os.Exit(1)
 	}
 

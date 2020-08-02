@@ -1,8 +1,8 @@
 [{
-  "Employer": "Target",
-  "Role": "Senior Engineer",
-  "Location": "Minneapolis, MN",
-  "TimeFrame": "January 2015 - Current",
+  "Employer": "Target, ",
+  "Role": "Lead Engineer – Cloud and Compute, ",
+  "Location": "Minneapolis, MN, ",
+  "TimeFrame": "April 2016 to Present",
   "Responsibilities": [
     "Lead efforts around offering Containers as a Service, using Kubernetes, in Target Stores and distribution Centers",
   "Designed and built highly automated immutable Kubernetes cluster for Stores' edge computing platform Unimatrix – which revolutionized the way Target developers deliver software to our stores.",
@@ -18,9 +18,9 @@
   ]
 },
 {
-  "Employer": "Target",
-  "Role": "Lead Engineer – Server technology",
-  "Location": "Minneapolis, MN",
+  "Employer": "Target, ",
+  "Role": "Lead Engineer – Server technology, ",
+  "Location": "Minneapolis, MN, ",
   "TimeFrame": "October 2011 to April 2016",
   "Responsibilities": [
     "Responsible for working with business units and developers to gather requirements to insure successful implementation of infrastructure.",
@@ -38,9 +38,9 @@
   ]
 },
 {
-  "Employer": "Target",
-  "Role": "Sr. Engineer – Infrastructure Support",
-  "Location": "Minneapolis, MN",
+  "Employer": "Target, ",
+  "Role": "Sr. Engineer – Infrastructure Support, ",
+  "Location": "Minneapolis, MN, ",
   "TimeFrame": "October2009 to October 2011",
   "Responsibilities": [
     "Provided top-level tier support to field engineers, technicians, and product support personnel fulfilling the role as a subject matter expert.",
@@ -55,9 +55,9 @@
   ]
 },
 {
-  "Employer": "Target",
-  "Role": "System Engineer – System recovery and support ",
-  "Location": "Minneapolis, MN",
+  "Employer": "Target, ",
+  "Role": "System Engineer – System recovery and support, ",
+  "Location": "Minneapolis, MN, ",
   "TimeFrame": "March 2005 to October 2009",
   "Responsibilities": [
     "Responsible for the high availability of systems, servers and related components and the security of the business applications.",
