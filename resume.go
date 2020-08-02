@@ -104,18 +104,18 @@ Education
 		os.Exit(1)
 	}
 
-	refTmpl, err := template.New("references").Parse(`
-References
-------
-
-{{ range . }}{{ .Name }}
-: {{ .Description }}
-
-{{ end }}`)
-	if err != nil {
-		fmt.Println("Error parsing references template:", err)
-		os.Exit(1)
-	}
+	// 	refTmpl, err := template.New("references").Parse(`
+	// References
+	// ------
+	//
+	// {{ range . }}{{ .Name }}
+	// : {{ .Description }}
+	//
+	// {{ end }}`)
+	// 	if err != nil {
+	// 		fmt.Println("Error parsing references template:", err)
+	// 		os.Exit(1)
+	// 	}
 
 	responsbility := []*Experience{}
 	respBytes, err := ioutil.ReadFile("experience.json")
@@ -159,7 +159,7 @@ Experience
 	err = copyContents("HEADER.md", f)
 	skillTmpl.Execute(f, skills)
 	eduTmpl.Execute(f, edu)
-	refTmpl.Execute(f, ref)
+	// refTmpl.Execute(f, ref)
 	respTmpl.Execute(f, responsbility)
 }
 

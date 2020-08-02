@@ -28,16 +28,6 @@ Education
 : Bachelor of Engineering; Electronics and Communication, Gulberga University
 
 
-References
-------
-
-will provide at request
-: will provide at request
-
-will provide at request
-: will provide at request
-
-
 Experience
 ------
 
